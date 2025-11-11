@@ -103,7 +103,7 @@
         <select class="form-select" name="level">
           <option value="phd">Phd</option>
           <option value="bachelor">Bachelor</option>
-          <option value="master">Diploma</option>
+          <option value="diploma">Diploma</option>
         </select>
       </div>
     </div>
@@ -202,4 +202,5 @@
 </script>
 
 </body>
+
 </html>
